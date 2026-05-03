@@ -65,6 +65,6 @@ The proposed model identifies and learns from the pattern of stock price movemen
 
 ## About The Author
 
-Akash Ravindra Borse
+Pratik Karad
 
 Bachelor of Technology - Artificial Intelligence and Data Science
